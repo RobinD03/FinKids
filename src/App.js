@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn chochorobin lokesh
-          {/* hey there dingus the chingus*/}
+          Learn Robin
         </a>
       </header>
     </div>
