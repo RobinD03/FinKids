@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn chochothomas
+          Learn chochorobin lokesh
         </a>
       </header>
     </div>
